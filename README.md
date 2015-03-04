@@ -3,7 +3,7 @@ json as db for yc
 
 > 目前依赖在 Underscore 或者 Lo-Dash 下面
 
-##方法如下：
+## 方法如下：
 
 #### load
 
