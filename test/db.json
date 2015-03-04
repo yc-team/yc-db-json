@@ -1,8 +1,9 @@
 {
   "user": [
     {
-      "name": "insert by auto",
-      "id": 1
+      "name": "update by auto",
+      "id": 1,
+      "age": 20
     },
     {
       "name": "insert by auto",
