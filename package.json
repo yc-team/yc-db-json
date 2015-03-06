@@ -1,8 +1,8 @@
 {
   "name": "yc-db-json",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "json as db for yc",
-  "main": "index.js",
+  "main": "src/node.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
